@@ -1,0 +1,11 @@
+.userPopout-3XzG_A {
+    width: 500px;
+    display: grid;
+    grid-template-columns: repeat(2 , 250px);
+    border-radius: 3px;
+}
+.footer-1fjuF6 {width: 500px;padding: 8px 4px;}
+.body-3iLsc4 {padding: 12px 16px}
+.headerTop-3C2Zn0, .activity-11LB_k {left: 0; max-width: 250px;}
+.inputWrapper-31_8H8 {max-width: 490px;}
+.headerTop-3C2Zn0 {padding-bottom: 6px;}
